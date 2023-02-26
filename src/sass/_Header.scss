@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Tilt+Neon&display=swap');
+
+nav {
+    align-items: center;
+
+    .container {
+        font-family: 'Roboto', sans-serif;
+        font-family: 'Tilt Neon', cursive;
+
+        .d-flex {
+            button {
+                border-radius: 0%;
+                padding: 4px;
+            }
+        }
+    }
+}

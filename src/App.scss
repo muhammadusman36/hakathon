@@ -1,0 +1,13 @@
+@import './sass/bootstrap';
+@import './sass/Header';
+@import './sass/home';
+
+#root {
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    min-height: 100vh;
+    flex: 1 0 auto;
+}
